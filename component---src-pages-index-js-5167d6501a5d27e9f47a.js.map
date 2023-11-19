@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-5167d6501a5d27e9f47a.js","mappings":"sMAEe,SAASA,IACtB,OAAO,2BAAK,mCACd,C","sources":["webpack://gatsby-starter-hello-world/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Home() {\n  return <div>Hello world! MY NANE IS TAKKUN!!</div>\n}\n"],"names":["Home"],"sourceRoot":""}
